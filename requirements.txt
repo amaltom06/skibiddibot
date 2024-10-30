@@ -1,0 +1,3 @@
+streamlit==1.17.0         # Specify the version of Streamlit you are using
+langchain_groq            # Include the langchain_groq module
+langchain_core            # Include langchain_core if needed
